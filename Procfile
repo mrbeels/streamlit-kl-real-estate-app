@@ -1,0 +1,1 @@
+web: sh setup.sd && streamlit run app.py
